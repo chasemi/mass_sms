@@ -6,7 +6,7 @@ The mass_sms repo contains the send_texts python program and an example csv file
 
 # Setup
 
-- Clone the repo from here: https://github.com/chasemi/mass_sms.git
+- Clone this repo
   
 - Import CSV to the repository containing the following information
     - Format CSV with the headers: **Analytics Name, Username, This Weeks Posts, This Weeks Followers, Phone Number**
